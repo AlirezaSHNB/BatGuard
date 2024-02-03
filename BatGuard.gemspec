@@ -34,6 +34,7 @@ Gem::Specification.new do |spec|
 
   # Specify dependencies (if any)
   spec.add_dependency "bcrypt", "~> 3.1"
+  spec.add_development_dependency "rspec", "~> 3.0"
 
   # For more information and examples about making a new gem, check out our
   # guide at: https://bundler.io/guides/creating_gem.html
